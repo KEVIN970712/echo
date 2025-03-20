@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="sleep_timer">定時關閉</string>
+    <string name="sleep_timer">睡眠定時器</string>
     <string name="login">登入</string>
     <string name="stream_quality">串流媒體品質</string>
     <string name="home">首頁</string>
@@ -54,7 +54,7 @@
     <string name="lyrics">歌詞</string>
     <string name="info">資訊</string>
     <string name="user">使用者</string>
-    <string name="error_no_client">錯誤，未選擇用戶端</string>
+    <string name="error_no_client">錯誤，未選擇客戶端</string>
     <string name="could_not_find_anything">找不到與 %1$s 相關的任何內容</string>
     <string name="streamable_not_found">找不到串流媒體</string>
     <string name="animation">動畫</string>
